@@ -3,11 +3,12 @@
 
 **Начинающий Data Analyst / ML инженер**
 
-## Содержание
-- [Обо мне](#🚀-обо-мне)
-- [Технологии](#🔧-технологии-и-инструменты)
-- [Проекты](#📂-проекты)
-- [Образование](#📚-образование)
+## 📑 Содержание
+- [🚀 Обо мне](#🚀-обо-мне)
+- [🔧 Технологии и инструменты](#🔧-технологии-и-инструменты)
+- [📂 Проекты](#📂-проекты)
+- [📚 Образование](#📚-образование)
+- [📈 GitHub статистика](#📈-github-статистика)
 
 ## 🚀 Обо мне
 
@@ -34,11 +35,12 @@ Python → SQL → ООП → ML (долгосрочная цель)
 
 ## 🔧 Технологии и инструменты
 
-**Программирование:**
+**Программирование:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-**Инструменты:**
+**Инструменты:**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code)
+
 ## 📚 Образование
 
 [![Stepik Certificate](https://img.shields.io/badge/Stepik-Поколение_Python-4CA154?logo=stepik&logoColor=white)](https://stepik.org/cert/2866851)
@@ -47,11 +49,11 @@ Python → SQL → ООП → ML (долгосрочная цель)
 
 Projects Coming Soon...
 
-
-
 ## 📈 GitHub статистика
 [![M4kurai GitHub stats](https://github-readme-stats.vercel.app/api?username=M4kurai&show_icons=true&bg_color=00000000)](https://github.com/M4kurai/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4kurai)](https://github.com/M4kurai/github-readme-stats)
+
 ```mermaid
 journey
     title Мой путь в Data Science
